@@ -2,7 +2,7 @@ Extract Text from Adobe illustrator to text for translate and write back to Adob
 Originally script from marceloliao@hotmail.com during his work in SDL.
 Updated by me.
 
-Adobe illustrator usually placed in its installation folder, example version 2023:
+Adobe illustrator script usually placed in its installation folder, example version 2023:
 C:\Program Files\Adobe\Adobe Illustrator 2023\Presets\
 and under Presets locate language folder:
 zh_CN or en_US or others depends on the language version you installed
